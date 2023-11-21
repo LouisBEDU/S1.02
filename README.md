@@ -5,7 +5,7 @@ Contacts : louis.bedu.etu@univ-lille.fr, gaspard.catry.etu@univ-lille.fr
 
 ## Présentation
 
-![shots.logo](https://github.com/LouisBEDU/S1.02/shots/logo.png)
+![shots.logo](https://github.com/LouisBEDU/S1.02/blob/main/shots/logo.png)
 
 ## Utilisation
 
