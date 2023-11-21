@@ -1,2 +1,2 @@
 #!/bin/bash
-java -cp "lib/program.jar:." bin/Pedagopic
+java -cp "lib/program.jar:bin" Pedagopic
